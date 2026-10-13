@@ -1,6 +1,6 @@
 {
   "display_information": {
-    "name": "CloudflareToSlack",
+    "name": "EmailNotifier",
     "background_color": "#0542f7"
   },
   "features": {
@@ -10,7 +10,7 @@
       "messages_tab_read_only_enabled": false
     },
     "bot_user": {
-      "display_name": "CloudflareToSlack",
+      "display_name": "EmailNotifier",
       "always_online": true
     }
   },
