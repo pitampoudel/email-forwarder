@@ -1,4 +1,4 @@
-# Cloudflare Email Forwarder
+# Email Forwarder
 
 A Cloudflare Email Worker that posts incoming-email notifications to Slack channels or direct messages and forwards emails to specified addresses.
 
